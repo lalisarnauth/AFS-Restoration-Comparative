@@ -17,8 +17,15 @@ This repository contains the R scripts and data used for the analyses presented 
 - `data_fp_flowering_cwmlike.csv`
 
 **Output figures:**
+**Output figures:**
 - `cwm_fruiting_potential.jpeg`
 - `cwm_flowering_potential.jpeg`
+- `cwm_fruit_length.jpeg`
+- `cwm_fruit_length_only_natives.jpeg`
+- `cwm_flower_length.jpeg`
+- `cwm_flower_length_only_natives.jpeg`
+- `cwm_seed_length.jpeg`
+- `cwm_seed_length_only_natives.jpeg`
 
 ### 2. Functional Diversity Analyses – Reproductive Traits
 
@@ -30,11 +37,6 @@ This repository contains the R scripts and data used for the analyses presented 
 **Input data examples:**
 - `community.csv`, `functional_fl.csv`, `functional_fr.seed.csv`
 - Versions filtered for only native species.
-
-**Output examples:**
-- `Flor_fdis.jpg`, `fr.seed_fdis.jpg`
-- `CWM_length_flower.jpg`, `CWM_length_fruit.jpg`, `CWM_length_seed.jpg`
-- Plots for native species only.
 
 ## Required R Packages
 
