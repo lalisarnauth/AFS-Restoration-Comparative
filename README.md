@@ -17,7 +17,11 @@ This repository contains the R scripts and data used for the analyses presented 
 - `data_fp_flowering_cwmlike.csv`
 
 **Output figures:**
-**Output figures:**
+
+- `fdis_flower.jpeg`
+- `fdis_flower_only_natives.jpeg`
+- `fdis_fruit.seed.jpeg`
+- `fdis_fruit.seed_only_natives.jpeg`
 - `cwm_fruiting_potential.jpeg`
 - `cwm_flowering_potential.jpeg`
 - `cwm_fruit_length.jpeg`
