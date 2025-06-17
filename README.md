@@ -1,6 +1,6 @@
 # Agroforestry Systems Maintain Higher Reproductive Phenology and Functional Diversity than Ecological Restoration Areas in a Fragmented Tropical Forest Landscape
 
-This repository contains the R scripts and data used for the analyses presented in the research project by Laíla Arnauth.
+This repository contains the R scripts and datasets used in the analyses conducted for the research project led by Laíla Arnauth.
 
 ## Repository Structure
 
@@ -18,18 +18,18 @@ This repository contains the R scripts and data used for the analyses presented 
 
 **Output figures:**
 
-- `fdis_flower.jpeg`
-- `fdis_flower_only_natives.jpeg`
-- `fdis_fruit.seed.jpeg`
-- `fdis_fruit.seed_only_natives.jpeg`
+- `fdis_flower.jpg`
+- `fdis_flower_only_natives.jpg`
+- `fdis_fruit.seed.jpg`
+- `fdis_fruit.seed_only_natives.jpg`
 - `cwm_fruiting_potential.jpeg`
 - `cwm_flowering_potential.jpeg`
-- `cwm_fruit_length.jpeg`
-- `cwm_fruit_length_only_natives.jpeg`
-- `cwm_flower_length.jpeg`
-- `cwm_flower_length_only_natives.jpeg`
-- `cwm_seed_length.jpeg`
-- `cwm_seed_length_only_natives.jpeg`
+- `cwm_fruit_length.jpg`
+- `cwm_fruit_length_only_natives.jpg`
+- `cwm_flower_length.jpg`
+- `cwm_flower_length_only_natives.jpg`
+- `cwm_seed_length.jpg`
+- `cwm_seed_length_only_natives.jpg`
 
 ### 2. Functional Diversity Analyses – Reproductive Traits
 
@@ -51,7 +51,7 @@ library(readxl)
 library(writexl)
 library(FD)
 library(vegan)
-library(tidyverse)  # (only for some native-only scripts)
+library(tidyverse)
 ```
 
 ## Citation
