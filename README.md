@@ -1,6 +1,6 @@
 # Agroforestry Systems Maintain Higher Reproductive Phenology and Functional Diversity than Ecological Restoration Areas in a Fragmented Tropical Forest Landscape
 
-This repository contains the R scripts and datasets used in the analyses conducted for the research project led by Laíla Arnauth.
+This repository contains the R scripts and datasets used in the analyses conducted for the research project led by Laíla Arnauth and André T. C. Dias.
 
 ## Repository Structure
 
